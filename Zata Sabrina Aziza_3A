@@ -1,29 +1,26 @@
-[  
-  { "bioskop": [
-  { 
-    "user": 
-   {
-    "nama": "Kisa",
-    "tanggal kedatangan": "5 September 2022"
-   }
-   },
+[
   {
-    "Movie":
-   {
-    "judul film": "Dilan 1999",
-    "genre": "romansa",
-    "durasi": "90 menit"
-   }
-  },
-  {
-    "schedule":
-   {
-    "judul film":  "Dilan 1990",
-    "waktu pemutaran": "15:00",
-    "harga tiket": "45.000"
-   }
-]
-}
+    "bioskop": [
+      {
+        "user": {
+          "nama": "Kisa",
+          "tanggal kedatangan": "5 September 2022"
+        }
+      },
+      {
+        "Movie": {
+          "judul film": "Dilan 1999",
+          "genre": "romansa",
+          "durasi": "90 menit"
+        }
+      },
+      {
+        "schedule": {
+          "judul film": "Dilan 1990",
+          "waktu pemutaran": "15:00",
+          "harga tiket": "45.000"
+        }
+      }
     ]
   }
 ]
