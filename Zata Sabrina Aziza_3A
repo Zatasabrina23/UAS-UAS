@@ -1,24 +1,24 @@
 [
   {
-    "bioskop": [
+    "servis elektronik": [
       {
-        "user": {
-          "nama": "Kisa",
-          "tanggal kedatangan": "5 September 2022"
+        "pelanggan": {
+          "nama": "Jihan",
+          "tanggal kedatangan": "8 Desember 2024"
         }
       },
       {
-        "Movie": {
-          "judul film": "Dilan 1999",
-          "genre": "romansa",
-          "durasi": "90 menit"
+        "jenis Elektronik": {
+          "device": "samsung A51",
+          "jenis kerusakan": "LCD",
+          "waktu penyelesain": "5 hari"
         }
       },
       {
-        "schedule": {
-          "judul film": "Dilan 1990",
-          "waktu pemutaran": "15:00",
-          "harga tiket": "45.000"
+        "Biaya": {
+          "harga LCD": "500.000",
+          "harga servis": "30.000",
+          "total biaya": "530.000"
         }
       }
     ]
